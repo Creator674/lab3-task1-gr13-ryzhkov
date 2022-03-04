@@ -1,11 +1,14 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+It is public rep of Lab_03 of PT BSU course.
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Yaroslav Ryzhkov 13 group course
 
 # Building
+To compile:
+`gcc -o main main.c`
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+To run: 
+`./main`
