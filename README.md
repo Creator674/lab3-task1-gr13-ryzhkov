@@ -8,7 +8,7 @@ Yaroslav Ryzhkov 13 group course
 
 # Building
 To compile:
-`gcc -o main main.c`
+`gcc -o bin/main main.c`
 
 To run: 
-`./main`
+`./bin/lab3-1`
